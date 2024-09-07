@@ -1,0 +1,10 @@
+no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+no-scrollbar {
+    scrollbar-width: none;
+}
+
+#AppSidebar {
+    width: 15rem;
+}
